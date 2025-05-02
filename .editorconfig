@@ -1,0 +1,4 @@
+[*.{js,jsx,mjs,cjs,ts,tsx,mts,cts,vue,css,scss,sass,less,styl}]
+charset = utf-8
+insert_final_newline = true
+trim_trailing_whitespace = true
